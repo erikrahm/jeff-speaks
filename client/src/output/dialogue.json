@@ -1,0 +1,48 @@
+[
+	{
+		"name": "DLG_STATUE1",
+		"character": "STATUE",
+		"dialogue": "Hey dude, I'm like totally a statue. Isn't that cool?",
+		"default": true
+	},
+	{
+		"name": "DLG_STATUE2",
+		"character": "STATUE",
+		"dialogue": "Hmm, I've never had a sandwich, but that sounds like fun.",
+		"default": false
+	},
+	{
+		"name": "DLG_STATUE3",
+		"character": "STATUE",
+		"dialogue": "Or is it?",
+		"default": false,
+		"responses": []
+	},
+	{
+		"name": "DLG_STATUE4",
+		"character": "STATUE",
+		"dialogue": "For real?",
+		"default": false,
+		"responses": []
+	},
+	{
+		"name": "DLG_STATUE5",
+		"character": "STATUE",
+		"dialogue": "Yes please.",
+		"default": false,
+		"responses": []
+	},
+	{
+		"name": "DLG_TYLER1",
+		"character": "TYLER",
+		"dialogue": "Hey here's a first bit of dialogue for 'Tyler Glamour' to say!",
+		"default": true
+	},
+	{
+		"name": "DLG_TYLER2",
+		"character": "TYLER",
+		"dialogue": "Nice, me too.",
+		"default": false,
+		"responses": []
+	}
+]

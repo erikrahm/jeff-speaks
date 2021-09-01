@@ -1,0 +1,12 @@
+[
+	{
+		"name": "STATUE",
+		"displayName": "Interactive Statue",
+		"default": "DLG_STATUE1"
+	},
+	{
+		"name": "TYLER",
+		"displayName": "Tyler Glamour",
+		"default": "DLG_TYLER1"
+	}
+]

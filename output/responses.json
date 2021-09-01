@@ -1,0 +1,20 @@
+[
+	{
+		"name": "RES_STATUE1",
+		"parent": "DLG_STATUE1",
+		"next": "DLG_STATUE2",
+		"category": "2h Swords",
+		"condition": "CON_ITEM1",
+		"dialogue": "Yeah that's pretty cool, but have you ever ate a sandwich?",
+		"conditionMet": true
+	},
+	{
+		"name": "RES_TYLER1",
+		"parent": "DLG_TYLER1",
+		"category": "Generic",
+		"next": "DLG_TYLER1",
+		"condition": "",
+		"dialogue": "Hey it's me, Tyler Glamour.",
+		"conditionMet": true
+	}
+]
